@@ -7,9 +7,11 @@ To set it up, please download all the files into a directory, and run the `setup
 You should also import the `USB Tool.xml` file into **Windows Task Scheduler**, to get the program to run.
 It's recommended to remove your password, as this script works instead of your password.
 
-## Tested OS'S
+## Tested Operating Systems
 - Windows 11 Home - 22621.1413
 - Windows 10 Home - 19042.2788
+
+```If you would like to contribute to testing, it would be greatly appreciated if you could post your OS and Build Number in the Pull Request, and any modifications you had to make to the code.```
 
 
 ## Tested USBS (UK Links)
